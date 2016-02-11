@@ -1,0 +1,21 @@
+{
+    "name": "hbcus",
+    "version": "0.0.1",
+    "description": "A random generator for names of US Historically Black Colleges & Universities",
+    "keywords": ["hbcu", "colleges", "universities"],
+    "author": "Sam Henry",
+	"license": "MIT",
+    "main": "src/index.js",
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/samhenry/hbcus.git"
+    },
+    "engines": { "node": "*" },
+	"devDependencies": {
+		"mocha": "2.4.1",
+		"chai": "3.4.1"
+	},  
+	"scripts": {
+		"test": "mocha tests/index.test.js -w"
+	}
+}
