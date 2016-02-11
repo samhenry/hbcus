@@ -1,6 +1,8 @@
 HBCU NPM Module
 ============
 
+[![Build Status](https://travis-ci.org/samhenry/hbcus.svg?branch=master)](https://travis-ci.org/samhenry/hbcus)
+
 Node.JS / NPM Module that gives you all of the Historically Black Colleges & Universities in the US.
 
 # Installing
