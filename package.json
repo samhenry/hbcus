@@ -16,6 +16,6 @@
 		"chai": "3.4.1"
 	},  
 	"scripts": {
-		"test": "./node_modules/mocha/bin/mocha ./tests/index.test.js -w"
+		"test": "./node_modules/mocha/bin/mocha ./tests/index.test.js"
 	}
 }
