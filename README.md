@@ -12,9 +12,11 @@ Node.JS / NPM Module that gives you all of the Historically Black Colleges & Uni
 ```javascript
 var hbcus = require('hbcus');
 
-hbcus.schools; // An Array of all the Mortal Kombat character names
+hbcus.all; // An Array of all HBCUs 
 
-hbcus.get(); // Returns a random character name
+hbcus.get(); // Returns a random school name
+
+hbcus.random(3); // Returns an array of random school names
 ```
 
 # License
